@@ -1,2 +1,2 @@
 # IMC
- Calculo IMC com referencia
+ Calculo simples do IMC com referencia em JS
